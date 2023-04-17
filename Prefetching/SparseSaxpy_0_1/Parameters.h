@@ -1,0 +1,10 @@
+#pragma once
+
+#define BLOCK_SIZE 16
+#define MAX_CLUSTER_SIZE 4
+#define MAX_CLUSTER_DISTANCE 32
+#define NUMBER_OF_BLOCKS 4*1024*1024
+
+
+
+
